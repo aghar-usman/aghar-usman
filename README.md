@@ -8,7 +8,7 @@
 💡 Enthusiastic about emerging technologies, intelligent automation, and building impactful solutions.
 
 ##  🤝 Looking to Collaborate On  
-- **AI-driven cybersecurity applications**  
+- **AI-driven  applications**  
 - **WebSocket-based real-time multiplayer games**  
 - **Machine Learning applications in security & automation**  
 
