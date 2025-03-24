@@ -4,8 +4,7 @@
 💻 I'm a **BE Information Science & Engineering** student passionate about **Data Science, AI, and Full-Stack Development**.  
 🎮 Developing **WebSocket-based multiplayer games** (Connect 4, Tic-Tac-Toe) with **JavaScript and Node.js**.  
 🛡️ Exploring **AI-powered cybersecurity solutions** with a **MVP-first** approach.  
-📊 Gaining expertise in **Data Science & Analytics** to drive real-world solutions.  
-🌐 Building a **college-exclusive resource hub** to help students access academic materials efficiently.  
+📊 Gaining expertise in **Data Science & Analytics** to drive real-world solutions.   
 💡 Enthusiastic about emerging technologies, intelligent automation, and building impactful solutions.
 
 ## 💞️ Looking to Collaborate On  
