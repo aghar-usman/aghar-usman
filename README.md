@@ -17,8 +17,6 @@
 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/aghar-usmankt/)  
 🌐 Portfolio: [My Portfolio](https://aghar-usman.github.io/my-portfolio/)  
 
-## ⚡ Fun Fact  
-I once thought about building my own Pokédex, but I’d probably end up catching more bugs than Pokémon! 😆
 
 ---  
 
