@@ -79,6 +79,6 @@ I thrive on building **real-time applications**, **AI-powered solutions**.
 ![](https://github-contributor-stats.vercel.app/api?username=aghar-usman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aghar-usman&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://avatars.githubusercontent.com/u/182309747?s=400&u=418f117f241c770e8c8651568478223d8392f4c6&v=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created ✍️ by Aghar Usman -->
