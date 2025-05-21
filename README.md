@@ -14,6 +14,7 @@ I thrive on building **real-time applications**, **AI-powered solutions**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghar-usmankt/)  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aghar-usman.github.io/my-portfolio/)  
 
 # 💻 Tech Stack:
