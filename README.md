@@ -48,15 +48,20 @@ Driven by innovation, I aim to craft impactful and intelligent solutions.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 🚀 Notable Projects:
-1. **AI Document Summarizer** - NLP-based tool for extracting key information from documents  
-2. **Real-Time Multiplayer Game** - WebSocket-powered gaming platform  
-3. **Network Security Monitor** - MVP for detecting suspicious network activities  
-4. **Automated Testing Framework** - Java-based testing automation system  
+
+1. **DB AssistBot**  
+   An intelligent AI chatbot that interacts with relational databases. It interprets user queries, fetches results in tabular format, and offers downloadable CSV output. Demonstrates skills in AI, SQL, backend integration, and user experience design.
+
+2. **Sentiment Analysis on Twitter Data**  
+   NLP and machine learning-based sentiment classifier that processes real Twitter data. Includes data preprocessing, vectorization, classification models, and result visualization.
+
+3. **Decision Tree Classifier (Bank Marketing Dataset)**  
+   Implements a Decision Tree to predict customer subscription behavior with Scikit-learn. Includes model evaluation, feature importance visualization, and interpretation.
 
 # 🤝 Looking to Collaborate On:
 - 🎯 AI-driven applications (especially NLP projects)  
 - 🎮 Real-time multiplayer WebSocket games  
-- 🔐 Cybersecurity tools with machine learning components  
+- 🔐 tools with machine learning components  
 - 🤖 Automation projects using Python/Java  
 
 # 📊 GitHub Stats:
