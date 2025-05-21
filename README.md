@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a final-year Information Science & Engineering student deeply passionate about Data Science, AI, and Full-Stack Development.  
 I thrive on building **real-time applications**, **AI-powered solutions**.  
-Driven by innovation, I aim to craft impactful and intelligent solutions.
+**Driven by innovation, I aim to craft impactful and intelligent solutions.**
 
 🔭 Currently working on:  
 - AI-powered document summarization tool  
