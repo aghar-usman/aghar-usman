@@ -4,12 +4,7 @@ I thrive on building **real-time applications**, **AI-powered solutions**.
 **Driven by innovation, I aim to craft impactful and intelligent solutions.**
 
 🔭 Currently working on:  
-- AI-powered document summarization tool  
-- Real-time multiplayer game with WebSocket  
-
-🌱 Currently learning:  
-- Advanced NLP techniques  
-- WebSocket optimization  
+................... 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghar-usmankt/)  
