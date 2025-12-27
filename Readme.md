@@ -1,9 +1,9 @@
 # 💫 About Me  
-I'm a final-year **Information Science & Engineering** student with a strong focus on **Applied Artificial Intelligence, Machine Learning, and Data-Driven Systems**. I specialize in building **production-ready AI applications** that bridge the gap between **theory and real-world deployment**—from intelligent NLP systems to computer vision pipelines and scalable backend services.
+I'm an **undergraduate in Information Science & Engineering** with a primary interest in **Applied Artificial Intelligence and Machine Learning**, complemented by solid experience in **full-stack and backend development**. I focus on building **practical, production-ready AI systems**—where models are not just trained, but **integrated into real applications**, optimized for performance, and deployed securely.
 
-I enjoy working at the intersection of **AI + Software Engineering**, where models are not just trained, but **secured, optimized, deployed, and scaled**. My interests lie in **applied ML, NLP systems, LLM-powered tools, and AI-backed web applications** that deliver measurable impact.
+My work largely revolves around **applied ML, NLP, computer vision, and LLM-powered tools**, while also being comfortable across the broader software engineering stack. I enjoy translating complex data and models into **scalable, user-friendly solutions**, and collaborating across domains to deliver real-world impact.
 
-Driven by curiosity and engineering discipline, I aim to design **robust, scalable, and user-centric AI solutions** that solve real business and societal problems.
+Driven by curiosity and hands-on engineering, I aim to contribute to **AI-first products** while maintaining strong fundamentals in **system design, APIs, databases, and frontend development**.
 
 ---
 
@@ -31,13 +31,12 @@ Driven by curiosity and engineering discipline, I aim to design **robust, scalab
 
 ---
 
-## **Applied AI / Machine Learning**
-- Machine Learning (Supervised & Unsupervised)
-- Deep Learning (CNNs, NLP Pipelines)
-- Natural Language Processing (Text-to-SQL, Sentiment Analysis)
-- LLM Systems & Prompt Engineering
-- Feature Engineering & Model Evaluation
-- Model Optimization & Inference Performance
+## **AI / Machine Learning (Primary Focus)**
+- Applied Machine Learning & Model Evaluation  
+- Deep Learning (CNNs, NLP pipelines)  
+- Natural Language Processing (Text-to-SQL, Sentiment Analysis)  
+- LLM-based systems & prompt engineering  
+- Feature engineering & inference optimization  
 
 ### **Frameworks & Libraries**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -48,66 +47,65 @@ Driven by curiosity and engineering discipline, I aim to design **robust, scalab
 
 ---
 
-## **Backend & AI Deployment**
-- RESTful APIs (Flask, FastAPI)
-- Secure Authentication (JWT, Rate Limiting)
-- Model Serving & Inference APIs
-- Database-Integrated AI Systems
-- Scalable System Design & SDLC
+## **Backend & Systems (Supporting Skills)**
+- RESTful APIs (Flask, FastAPI)  
+- Secure authentication (JWT, rate limiting)  
+- AI model serving & inference APIs  
+- Database-driven applications & SDLC  
 
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## **Databases & Data Engineering**
+## **Databases**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-## **Frontend & Visualization**
+## **Frontend & Visualization (Complementary)**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 ---
 
-# 🚀 Applied AI Projects
+# 🚀 Selected Projects (AI-Centric)
 
 ## **1. AI Database Assistant (Text-to-SQL)**  
-Production-grade LLM system translating natural language into secure SQL queries with authentication, retry logic, and optimized database access.  
-**Focus:** Applied NLP, LLM orchestration, backend engineering  
+LLM-powered system converting natural language into secure, optimized SQL queries and exposing results via REST APIs.  
+**Focus:** Applied NLP, LLM orchestration, backend systems  
 **Tech:** Python, LangGraph, LLMs, Flask, PostgreSQL, MSSQL
 
 ---
 
 ## **2. Leaf Disease Detection using CNN**  
-End-to-end computer vision system deployed with Flask for real-time inference and IoT data integration.  
-**Focus:** Applied Deep Learning, CV, model deployment  
+Computer vision system for real-time plant disease classification, deployed as a web service.  
+**Focus:** Applied deep learning & CV  
 **Tech:** TensorFlow/Keras, OpenCV, NumPy
 
 ---
 
 ## **3. Twitter Sentiment Analysis**  
-End-to-end NLP pipeline from raw text to classification and visualization.  
-**Focus:** Applied NLP & classical ML  
+Classical ML + NLP pipeline for sentiment classification and insights.  
+**Focus:** Applied NLP & ML fundamentals  
 **Tech:** TF-IDF, Naïve Bayes, Scikit-learn, Pandas, NLTK
 
 ---
 
-## **4. Interactive AI Portfolio Website**  
-High-performance frontend showcasing AI projects with 3D visuals and smooth animations.  
+## **4. Interactive Portfolio Website**  
+Modern frontend showcasing AI projects with high-performance 3D visuals and animations.  
 **Tech:** React, Three.js, GSAP, Anime.js
 
 ---
 
-# 🤝 Looking to Collaborate On
-- 🤖 **Applied AI / ML systems** (NLP, CV, LLM tools)  
-- 🧠 **LLM-powered applications & AI agents**  
+# 🤝 Open to Collaborate On
+- 🤖 **Applied AI / ML systems**  
+- 🧠 **LLM-powered tools & agents**  
 - 📊 **Data-driven backend platforms**  
-- ⚙️ **End-to-end ML deployment (model → API → UI)**  
+- ⚙️ **End-to-end AI deployment (model → API → UI)**  
 
 ---
 
