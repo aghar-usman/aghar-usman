@@ -8,9 +8,7 @@ Driven by curiosity and hands-on engineering, I aim to contribute to **AI-first 
 ---
 
 🔭 **Currently working on:**  
-- LLM-powered **AI Web UI Database Assistant (Text-to-SQL)**  
-- **Plant Leaf Disease Detection** using CNNs & OpenCV  
-- **Interactive AI-focused Portfolio** (3D + performance-optimized animations)
+
 
 ---
 
