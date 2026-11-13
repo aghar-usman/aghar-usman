@@ -190,7 +190,7 @@ flowchart LR
 
 | Role | Where | When |
 |:--|:--|:--|
-| **Python Backend Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
+| **Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
 
 <details>
 <summary><b>📌 What I shipped there</b></summary>
