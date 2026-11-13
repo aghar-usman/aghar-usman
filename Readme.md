@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Aghar%20Usman&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Front%20End%20%C2%B7%20Backend%20%C2%B7%20AI%2F&descSize=20&descAlignY=58&descColor=7dd3fc" width="100%" alt="Aghar Usman header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Aghar%20Usman&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Front%20End%20%C2%B7%20Backend%20%C2%B7%20AI%2FLLM&descSize=20&descAlignY=58&descColor=7dd3fc" width="100%" alt="Aghar Usman header"/>
 
 <a href="https://aghar-portfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=I+build+full-stack+products+end+to+end;Python+%7C+TypeScript+%7C+React+%7C+Next.js;REST+APIs%2C+ETL+pipelines+%26+LLM-powered+tools;From+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+deployed;Let's+build+something+extraordinary+together." alt="Typing SVG" />
@@ -150,6 +150,8 @@ A responsive **Next.js (App Router) + TypeScript** site where every project page
 
 `Next.js` `TypeScript` `Tailwind` `Framer Motion` `GSAP`
 
+[**View live →**](https://suen-studio.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -190,7 +192,7 @@ flowchart LR
 
 | Role | Where | When |
 |:--|:--|:--|
-| **Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
+| **Python Backend Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
 
 <details>
 <summary><b>📌 What I shipped there</b></summary>
