@@ -141,7 +141,7 @@ A **5-layer CNN** that classifies **19 diseases across 4 crops** with **85%+ acc
 <tr>
 <td width="50%" valign="top">
 
-### SU·EN Studio
+### [SU·EN Studio](https://suen-studio.vercel.app/)
 *Website for an architecture & design studio in Kerala and Bangalore · 2026*
 
 A responsive **Next.js (App Router) + TypeScript** site where every project page is generated from a **single typed data file**.
@@ -195,7 +195,7 @@ flowchart LR
 
 | Role | Where | When |
 |:--|:--|:--|
-| **Python Backend Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
+| **Intern** — REST APIs, LLM tooling, PostgreSQL ETL | **Team Thai**, Calicut, Kerala | Feb 2025 – May 2025 |
 
 <details>
 <summary><b>What I shipped there</b></summary>
